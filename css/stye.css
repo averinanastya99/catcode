@@ -276,3 +276,7 @@ padding-right: 48px;
     color: #a5a5a5;
     margin-top: 72px;
 }
+
+.projects-slider {
+    overflow: hidden;
+}

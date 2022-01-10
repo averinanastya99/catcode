@@ -6,4 +6,4 @@ var mySwiper = new Swiper('.swiper-container', {
     bulletActiveClass: 'projects-bullet-active',
     clickable: true,
   },
-}),
+})
