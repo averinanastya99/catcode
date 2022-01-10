@@ -3,12 +3,12 @@
 }
 body {
     background-color: #20202D;
-    свойство: значение;
     margin: 0;
     color: #fff;
     font-family: 'Roboto', sans-serif;
 }
 .container {
+    width: 90%;
     max-width: 945px;
     margin: auto;
 }
